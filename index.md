@@ -1,5 +1,6 @@
 ## Digital Media Portfollio 
-### Jamerson Kent
+## Jamerson Kent
+
 
 You can use the [editor on GitHub](https://github.com/jjwwxk/digital-media-portfollio-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
