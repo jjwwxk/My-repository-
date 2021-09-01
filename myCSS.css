@@ -2,20 +2,20 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
      font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-     background-color: ##53E0DC;
+     background-color: ##FFFFFF;
      margin: 0;
      padding: 0;
      color: #000;
 }
 .homePage {
-	background: ##F0C750;
+	background: ##222222;
 }
 .container {
-	width: 960px;
+	width: 100%;
 	margin: 0 auto;
 }
 .header {
-	background: ##644FF7;
+	background: ##348BA8;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -25,7 +25,7 @@ body {
 	
 }
 .nav {
-	background: ##88F74F;
+	background: ##BBBBBB;
 	margin: 0px;
 	padding: 5;
 	float: left;
