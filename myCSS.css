@@ -25,7 +25,7 @@ body {
 	
 }
 .nav {
-	background: ##BBBBBB;
+	background: ##8EB5C2;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -34,7 +34,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #ED4C8E;
+	background: #4CCBF5;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -42,7 +42,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #246175;
 	margin: 0px;
 	float: left;
 	width: 100%;
